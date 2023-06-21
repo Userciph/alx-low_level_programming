@@ -1,8 +1,6 @@
 #include "main.h"
  /**
-*  main - _putchar as a message
-* description: _putchar using putchar prototype
-* _putchar - writes the character c to stdout
+*  main - prints  _putchar as a message
 * Return: 0
 */
 
