@@ -1,4 +1,6 @@
 #include "main.h"
+
+
 /**
  * main - prints _putchar as a message
  *
@@ -6,6 +8,9 @@
  *
  * Return: 0 (When Success)
  */
+
+
+ 
 	int main(void)
 	{
 	_putchar('_');
