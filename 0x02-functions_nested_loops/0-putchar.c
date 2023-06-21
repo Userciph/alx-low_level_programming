@@ -1,16 +1,11 @@
 #include "main.h"
-
-
 /**
  * main - prints _putchar as a message
  *
  * Description: prints _putchar  using putchar prototype
  *
  * Return: 0 (When Success)
- */
-
-
- 
+ */ 
 	int main(void)
 	{
 	_putchar('_');
