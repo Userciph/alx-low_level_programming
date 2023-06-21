@@ -1,9 +1,11 @@
 #include "main.h"
 	/**
-	 * main - print _putchar
-	 * is written by mbah
-	 * Return: 0
-	 */
+*main - prints _putchar as a message
+*
+*Description:  _putchar using putchar prototype
+*
+* Return :  0  when success
+*/
 
 
 	int main(void)
