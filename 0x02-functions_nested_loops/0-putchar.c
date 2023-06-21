@@ -1,19 +1,16 @@
 #include "main.h"
- /**
-*  main - prints _putchar as a message
-* Return: 0
+/**
+ * main - Entry point
+ * Return: 0 (success)
 */
-
 int main(void)
 {
-_putchar('_');
-_putchar('p');
-_putchar('u');
-_putchar('t');
-_putchar('c');
-_putchar('h');
-_putchar('a');
-_putchar('r');
-_putchar('\n');
-return (0);
+	char word[] = "_putchar";
+	int ch;
+
+	for (ch = 0; ch < 8; ch++)
+		_putchar(word[ch]);
+	_putchar('\n');
+
+	return (0);
 }
