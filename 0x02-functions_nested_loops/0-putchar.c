@@ -1,6 +1,7 @@
 #include "main.h"
 	/**
 	 * main function - print _putchar
+	 * description: _putchar using putchar prototype
 	 * is written by mbah
 	 * Return: 0
 	 */
